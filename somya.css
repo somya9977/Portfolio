@@ -9,8 +9,8 @@ body {
 
 header.hero {
   position: relative;
-  height: 100vh; /* Adjust height as needed */
-  background-image: url('images/35106b7ad620a26f28d3c6604aa79bcd.jpg'); 
+  height: 100vh; 
+  background-image: url('35106b7ad620a26f28d3c6604aa79bcd.jpg'); 
   background-size: cover;
   background-position: center;
   color: #fff;
